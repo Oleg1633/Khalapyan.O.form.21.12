@@ -1,1 +1,0 @@
-consosole.console.log();
